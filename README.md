@@ -14,5 +14,35 @@ MyDigitalMe is the technological platform that wants to change the Internet and 
 * We will decide wwhat data want to share or expose to the public in general or to certain parties, for how long and for which purpose
 * We will obtain revenew by exposing our data in such a way
 
+## Is that possible?
+It sounds very ambitious but the truth is that this could be tottaly possible.
+
+- Technology provides all the tools to make this happen, in esence is all about changing the current flow of data, not from us to Internet and companies but the other way around
+- We will define an interface so others will be able to interact with the platform very easily
+- Services will be built on top of the platform and will provide added value to everybody
+
+## How are we going to do this
+This idea has been around for a long time ago, now it is time to make it happen. These are the steps we will follow:
+
+ 1. Define an API for MyDigitalMe
+ 2. Define the architecture and implement the services
+ 3. Cover the services with security
+ 4. Deploy the platform
+ 5. Let the developer's community to build applications
+ 
+ ## API
+ While MyDigitalMe API could be very extensive to cover all different digital assets, we will focus first on the common functionallities that all them might have. To help identifying such, let's begin with the most simple an basic one: Me API.
+ 
+ ### Me API
+ Me represents the root for accessing all our information. There will be no additional security control apart from validating the resource owner.
+ 
+ ## Architecture
+ 
+ ## Security
+ 
+ ## Deploy
+ 
+ ## Developers
+
 
 
