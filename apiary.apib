@@ -1,0 +1,45 @@
+FORMAT: 1A
+HOST: http://api.mydigitalme.com/
+
+# mydigitalme
+
+MyDigitalMe is a collector for all your digital assets spread across the digital world
+## Your digital representation [/me]
+
+### Get Me [GET]
+
++ Response 200 (application/json)
+
+        [
+            {
+                "first_name": "Your first name",
+                "last_name": "Your last name",
+                "public_alias": "Your public alias to the world"
+            }
+        ]
+
+### Create Me  [POST]
+
+You may create your own
+
++ Request (application/json)
+
+        {
+            "first_name": "Alberto",
+            "last_name": "Pulido Moyano",
+            "public_alias": "Alberto"
+        }
+
++ Response 201 (application/json)
+
+    + Headers
+
+            Location: /me
+
+    + Body
+
+            {
+                "first_name": "Alberto",
+                "last_name": "Pulido Moyano",
+                "public_alias": "Alberto"
+            }
