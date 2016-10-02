@@ -33,8 +33,7 @@ This idea has been around for a long time ago, now it is time to make it happen.
 ## API
  While MyDigitalMe API could be very extensive to cover all different digital assets, we will focus first on the common functionallities that all them might have. To help identifying such, let's begin with the most simple an basic one: Me API.
  
- ## Me API
- Me represents the root for accessing all our information. There will be no additional security control apart from validating the resource owner.
+ The full API definition can be found [here](https://nodejs.org/)
  
 ## Architecture
  
