@@ -10,13 +10,7 @@ MyDigitalMe is a collector for all your digital assets spread across the digital
 
 + Response 200 (application/json)
 
-        [
-            {
-                "first_name": "Your first name",
-                "last_name": "Your last name",
-                "public_alias": "Your public alias to the world"
-            }
-        ]
+    + Attributes (Me)
 
 ### Create Me  [POST]
 
@@ -24,11 +18,7 @@ You may want to create your own!
 
 + Request (application/json)
 
-        {
-            "first_name": "Alberto",
-            "last_name": "Pulido Moyano",
-            "public_alias": "Alberto"
-        }
+    + Attributes (Me)
 
 + Response 201 (application/json)
 
@@ -36,10 +26,10 @@ You may want to create your own!
 
             Location: /me
 
-    + Body
+            
+## Data Structures
 
-            {
-                "first_name": "Alberto",
-                "last_name": "Pulido Moyano",
-                "public_alias": "Alberto"
-            }
+### Me (object)
++ first_name: Your First Name
++ last_name: Your Last Name
++ public_alias: Your known personal and unique alias to the world
