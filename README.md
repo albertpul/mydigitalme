@@ -12,7 +12,7 @@ A private unique identifier for your self into the digital world, and many other
 
 * Data Marketplace
 
-A way to obtain revenue when sharing your data to others
+A way to obtain revenue when sharing your data with others
 
 # The way things work today
 * There isn't a clear and uniformed representation of us in the Internet
