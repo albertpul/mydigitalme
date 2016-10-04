@@ -2,15 +2,15 @@
 
 MyDigitalMe is the technological platform that wants to change the way we interact with other persons, organizations and things. This are the key features:
 
-** Personal BigData 
+* Personal BigData 
 
 An aggregator for your all digital data spread across the Internet and companies and governs backend, including the inmmense ammount of data gathered by your things
 
-** Digital Identity
+* Digital Identity
 
 A private unique identifier for your self into the digital world, and many other private masked identifiers for other to access your data in a controlled and protected way
 
-** Data Marketplace
+* Data Marketplace
 
 A way to obtain revenue when sharing your data to others
 
