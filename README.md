@@ -8,7 +8,7 @@ An aggregator for your all digital data spread across the Internet and companies
 
 * Digital Identity
 
-A private unique identifier for your self into the digital world, and many other private masked identifiers for other to access your data in a controlled and protected way
+A private unique identifier for your self into the digital world, and many other temporal public masked identifiers for other to access your data in a controlled and protected way
 
 * Data Marketplace
 
