@@ -1,6 +1,6 @@
 # MyDigitalMe
 
-MyDigitalMe is the technological platform that wants to change the way we interact with other persons, organizations and things. This are the key features:
+MyDigitalMe is the technological platform that wants to change the way we interact with other persons, organizations and things. These are the key features:
 
 * Personal BigData 
 
