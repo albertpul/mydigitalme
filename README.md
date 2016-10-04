@@ -46,19 +46,19 @@ This idea has been around for a long time ago, now it is time to make it happen.
 ## API
  While MyDigitalMe API could be very extensive to cover all different digital assets, we will focus first on the common functionallities that all them might have. To help identifying such, let's begin with the most simple an basic one: Me API.
  
- Me is the root for all your data, here is a list of different main assets under this path:
+ Me is the root for all your data, here is a list of different main assets under this path
 
- | API       | Description                                                  |
- |-----------|--------------------------------------------------------------|
- | Me (root) | Including all your personal and contact details              |
- | Locations | Track where you have been |
- | Finance   | Your bank accounts, investment assets |
- | Billings  | |
- | Health    | |
- | Home      | |
- | Career    | |
- | Education | |
- | Agenda    | |
+ | API         | Description                                                    |
+ | ----------- | -------------------------------------------------------------- |
+ | Me          | Including all your personal and contact details                |
+ | Locations   | Track where you have been                                      |
+ | Finance     | Your bank accounts, investment assets                          |
+ | Billings    | Produced by Utilities, Purchases, Taxes, Product Contracts...  |
+ | Health      |                                                                |
+ | Home        |                                                                |
+ | Career      |                                                                |
+ | Education   |                                                                |
+ | Agenda      |                                                                |
  
  The full API definition can be found [here](https://github.com/albertpul/mydigitalme/blob/master/apiary.apib)
  
