@@ -14,6 +14,10 @@ A private unique identifier for your self into the digital world, and many other
 
 A way to obtain revenue when sharing your data with others
 
+* Applications and Services Development Framework 
+
+Utilities for others to connect with the platform in a secure way and build value added services and applications
+
 # The way things work today
 * There isn't a clear and uniformed representation of us in the Internet
 * We don't have any ownership over the data we are producing constantly in our every day life
@@ -46,19 +50,20 @@ This idea has been around for a long time ago, now it is time to make it happen.
 ## API
  While MyDigitalMe API could be very extensive to cover all different digital assets, we will focus first on the common functionallities that all them might have. To help identifying such, let's begin with the most simple an basic one: Me API.
  
- Me is the root for all your data, here is a list of different main assets under this path
+ Me is the root for all your data, here is a list of different main assets under this path:
 
- | API         | Description                                                    |
- | ----------- | -------------------------------------------------------------- |
- | Me          | Including all your personal and contact details                |
- | Locations   | Track where you have been                                      |
- | Finance     | Your bank accounts, investment assets                          |
- | Billings    | Produced by Utilities, Purchases, Taxes, Product Contracts...  |
- | Health      |                                                                |
- | Home        |                                                                |
- | Career      |                                                                |
- | Education   |                                                                |
- | Agenda      |                                                                |
+ 
+ Me          : Including all your personal and contact details               
+ Locations   : Track where you have been and how did you moved from one place to another                                     
+ Finance     : Your bank accounts, investment assets                         
+ Billings    : Produced by Utilities, Purchases, Taxes, Product Contracts... 
+ Health      : Your steps, health rate, weigth, etc..                                                            
+ Home        : Domotic data, pet records                                                             
+ Career      : Profesional activity and skills, your company records, recommendations, achivements.
+ Education   : Academic and training results and certifications                                                             
+ Agenda      : Your contacts, appointments, reminders, tasks, notes
+ Social      : Your feeds into the different social networks you are in
+ Demands     : Your request to get offers and proposal based on some criteria and the the data you will allow others to access 
  
  The full API definition can be found [here](https://github.com/albertpul/mydigitalme/blob/master/apiary.apib)
  
