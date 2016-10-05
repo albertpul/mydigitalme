@@ -4,7 +4,7 @@ MyDigitalMe is the technological platform that wants to change the way we intera
 
 * Personal BigData 
 
-An aggregator for your all digital data spread across the Internet and companies and governs backend, including the inmmense ammount of data gathered by your things
+An aggregator for all ypur digital data spread across the Internet, companies and governs backend, including the inmmense ammount of data gathered by your things
 
 * Digital Identity
 
