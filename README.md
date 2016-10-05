@@ -53,17 +53,17 @@ This idea has been around for a long time ago, now it is time to make it happen.
  Me is the root for all your data, here is a list of different main assets under this path:
 
  
- Me          : Including all your personal and contact details               
- Locations   : Track where you have been and how did you moved from one place to another                                     
- Finance     : Your bank accounts, investment assets                         
- Billings    : Produced by Utilities, Purchases, Taxes, Product Contracts... 
- Health      : Your steps, health rate, weigth, etc..                                                            
- Home        : Domotic data, pet records                                                             
- Career      : Profesional activity and skills, your company records, recommendations, achivements.
- Education   : Academic and training results and certifications                                                             
- Agenda      : Your contacts, appointments, reminders, tasks, notes
- Social      : Your feeds into the different social networks you are in
- Demands     : Your request to get offers and proposal based on some criteria and the the data you will allow others to access 
+ - Me          : Including all your personal and contact details               
+ - Locations   : Track where you have been and how did you moved from one place to another                                     
+ - Finance     : Your bank accounts, investment assets                         
+ - Billings    : Produced by Utilities, Purchases, Taxes, Product Contracts... 
+ - Health      : Your steps, health rate, weigth, etc..                                                            
+ - Home        : Domotic data, pet records                                                             
+ - Career      : Profesional activity and skills, your company records, recommendations, achivements.
+ - Education   : Academic and training results and certifications                                                             
+ - Agenda      : Your contacts, appointments, reminders, tasks, notes
+ - Social      : Your feeds into the different social networks you are in
+ - Demands     : Your request to get offers and proposal based on some criteria and the the data you will allow others to access 
  
  The full API definition can be found [here](https://github.com/albertpul/mydigitalme/blob/master/apiary.apib)
  
