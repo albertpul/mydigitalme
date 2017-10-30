@@ -10,9 +10,9 @@ An aggregator for all ypur digital data spread across the Internet, companies an
 
 A private unique identifier for your self into the digital world, and many other temporal public masked identifiers for other to access your data in a controlled and protected way
 
-* Data Marketplace
+* Data Sharing Marketplace
 
-A way to obtain revenue when sharing your data with others
+A way to obtain revenue when sharing your data with others, having total control on the assets that you make available to others
 
 * Applications and Services Development Framework 
 
@@ -41,8 +41,9 @@ It sounds very ambitious but the truth is that this could be tottaly possible.
 # How are we going to do this
 This idea has been around for a long time ago, now it is time to make it happen. These are the steps we will follow:
 
- 1. Define an API for MyDigitalMe
- 2. Define the architecture and implement the services
+ 1. Define an API for MyDigitalMe Data Bank 
+ 2. Define a Distributed Application based on Digital Sharing Contracts (Blokchain based)
+ 2. Define the architecture and implement the services and the smart contracts
  3. Cover the services with security
  4. Deploy the platform
  5. Let the developer's community to build applications
@@ -65,8 +66,19 @@ This idea has been around for a long time ago, now it is time to make it happen.
  - Social      : Your feeds into the different social networks you are in
  - Demands     : Your request to get offers and proposal based on some criteria and the the data you will allow others to access 
  
- The full API definition can be found [here](https://github.com/albertpul/mydigitalme/blob/master/apiary.apib)
- 
+## Distributed Application
+Data Sharing Smart Contracts are the central element, they hold the data buying, selling and sharing conditions between the different parties:
+
+ - Me
+ - Data Provider
+ - Data Consumer
+ - Data Bank
+ - Regulator
+
+Setting up a regulated and trusted framework for personal data sharing
+
+Using a distributed layer and cryptographic currency as core elements of the platform
+
 ## Architecture
  
 ## Security
